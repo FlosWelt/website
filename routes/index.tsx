@@ -27,8 +27,8 @@ export default function Home() {
            <div class="z-50 p-3 mt-10 max-w-xs  grid grid-cols-1 cursor-default select-none rounded bg-gray-400 dark:bg-gray-900 shadow-lg">
               <div class="font-semibold text-xl mb-2 ml-2 text-gray-900 dark:text-white">ip-address.app</div>
              <div class="flex">
-              <a href="https://ip-address.app" class="transform  bg-gray-900 text-sm text-white mx-2 py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-90   focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none" target="_blank">Website</a>
-              <a href="https://github.com/floswelt/ip-address" class="transform  bg-gray-900 text-sm text-white mx-1 py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-90   focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none" target="_blank">GitHub</a>
+              <a href="https://ip-address.app" class="transform  bg-gray-900 text-sm text-white mx-2 py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-90   focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none dark:outline-white" target="_blank">Website</a>
+              <a href="https://github.com/floswelt/ip-address" class="transform  bg-gray-900 text-sm text-white mx-1 py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-90   focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none dark:outline-white" target="_blank">GitHub</a>
              </div>
              <div class="my-2 mx-2 mr-5">
             <p class="text-gray-900 dark:text-white text-sm">
