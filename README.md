@@ -1,5 +1,4 @@
-# fresh project
-
+# My simple website built with deno and fresh
 ### Usage
 
 Start the project:
