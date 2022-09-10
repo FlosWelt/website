@@ -31,12 +31,12 @@ export default function Home() {
               <a href="https://github.com/floswelt/ip-address" class="transform  bg-gray-900 text-sm text-white mx-1 py-1 px-2 font-semibold rounded hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-90   focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none" target="_blank">GitHub</a>
              </div>
              <div class="my-2 mx-2 mr-5">
-            <p class="text-gray-900 text-sm">
+            <p class="text-gray-900 dark:text-white text-sm">
                A simple ad free website to get ip addresses and look them up
              </p>
            </div>
          <div>
-           <div class="font-semibold text-lg text-gray-900">Tech Stack:</div>
+           <div class="font-semibold text-lg text-gray-900 dark:text-white">Tech Stack:</div>
            <div>
             <span class="transform transition-all mx-0.5 duration-150 inline-block bg-blue-400 bg-opacity-75 rounded px-1 py-1 text-xs font-medium   hover:shadow-sm  hover:scale-105 ">NEXTjs</span>
           <span class="transform transition-all mx-0.5 duration-150 inline-block bg-[#38bdf8] bg-opacity-100 rounded px-1 py-1  text-xs font-medium   hover:shadow-sm  hover:scale-105">Tailwind</span>
