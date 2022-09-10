@@ -1,5 +1,5 @@
 
-export default function Imprint() {
+export default function ImprintPage() {
     return (
       <div  class=" w-full h-screen  bg-repeat bg-gradient-to-l from-purple-400 via-purple-300 to-indigo-300">
           <head>
